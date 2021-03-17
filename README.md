@@ -1,4 +1,3 @@
-# object-detection-attacks
 # 面向目标检测的对抗样本
 ## Introduce
 
