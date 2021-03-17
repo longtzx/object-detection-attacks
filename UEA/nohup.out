@@ -1,0 +1,768 @@
+INFO:root:Application Started
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.39ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.29ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.31ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.32ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.29ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.32ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.29ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.29ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.29ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.33ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.27ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.32ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.37ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.36ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.28ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.34ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.29ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.30ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.35ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.33ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.29ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.33ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.29ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.34ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/fasterrcnn-caffe (127.0.0.1) 0.34ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.34ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.40ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.30ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:root:Application Started
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.38ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.43ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.42ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.35ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.32ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.28ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.34ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.30ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.29ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.33ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.32ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.27ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.34ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.42ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.30ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.35ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.30ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.28ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.42ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.30ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.39ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.41ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.37ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 7.94ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.52ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.51ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.50ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 2.06ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.51ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.50ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.54ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.51ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.47ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.90ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.50ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.48ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.50ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.85ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.49ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.49ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.46ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.50ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.48ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.49ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.47ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.49ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.89ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.50ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.49ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 3.52ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.51ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.34ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.28ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.30ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.32ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.27ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.49ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.89ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.47ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.55ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.48ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.52ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.91ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.51ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.77ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.48ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.47ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.53ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.47ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.50ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.45ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.58ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.48ms
+INFO:tornado.access:200 POST /save (127.0.0.1) 0.48ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.38ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:root:Application Started
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.42ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.30ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.32ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.28ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.36ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.32ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.40ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.27ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.34ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.34ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.27ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.29ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.32ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.30ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.43ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.36ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.37ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.34ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.26ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.36ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.37ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.24ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.25ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.30ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.28ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.38ms
+INFO:tornado.access:200 POST /env/attention+img_10_20 (127.0.0.1) 0.31ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.28ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.39ms
